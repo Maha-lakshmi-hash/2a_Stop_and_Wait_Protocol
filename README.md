@@ -34,8 +34,9 @@ conn.close()
 
 ```
 
-```
 server program:
+
+```
 import socket
 
 s = socket.socket()
